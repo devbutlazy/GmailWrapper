@@ -1,0 +1,11 @@
+venv/
+.vscode/
+*__pycache__
+*.txt
+!requirements.txt
+.idea/
+*.session
+*.session-journal
+build/
+dist/
+*.spec

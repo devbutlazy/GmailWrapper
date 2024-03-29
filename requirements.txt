@@ -1,0 +1,4 @@
+aiogram
+logging
+imaplib
+email
