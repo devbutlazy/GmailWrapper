@@ -4,10 +4,10 @@
 
 ## Features
 
-    Monitors Gmail inbox for new emails.
-    Sends notifications to a specified Telegram user whenever a new email is received.
-    Uses asyncio for asynchronous execution to minimize resource usage.
-    Handles errors gracefully and logs them for easy debugging.
+    - Monitors Gmail inbox for new emails.
+    - Sends notifications to a specified Telegram user whenever a new email is received.
+    - Uses asyncio for asynchronous execution to minimize resource usage.
+    - Handles errors gracefully and logs them for easy debugging.
 
 ## Installation
 
