@@ -34,9 +34,9 @@ python main.py
 ```
 
 # What it does?
-    The program will start monitoring your Gmail inbox for new emails.
+    The program starts monitoring your Gmail inbox for new emails.
 
-    You will receive notifications in your Telegram chat whenever a new email is received.
+    You'll receive notifications in your Telegram chat whenever a new email is received.
 
 ## Customization
 
